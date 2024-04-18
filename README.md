@@ -10,4 +10,4 @@
 ![Концептуальная модель](models/concept_model.png)\
 Логическая модель\
 ![логическая модель](models/logic_model.png)\
-[Физическая модель](https://github.com/gl-egor/database-of-statistics/edit/main/models/physical_model.pdf)
+[Физическая модель](https://github.com/gl-egor/database-of-statistics/blob/main/models/physical_model.pdf)
