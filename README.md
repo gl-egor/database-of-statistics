@@ -9,7 +9,7 @@
 Концептуальная модель\
 ![Концептуальная модель](models/concept_model.png)\
 Логическая модель\
-![логическая модель](models/logic_model.png)\
+![логическая модель](models/Logic_model.png)\
 [Физическая модель](https://github.com/gl-egor/database-of-statistics/blob/main/models/physical_model.pdf)
 # Создание и заполнение БД
 Выбранная СУБД - PostgreSQL\
@@ -17,3 +17,6 @@
 Далее воспользуемся Data Manipulation Language. На этом шаге с помощью insert-запросов описанные выше отношения заполняются данными, чтобы в дальнейшем с ними можно было работать.
 # Работа с Базой Данных
 [создание запросов](https://github.com/gl-egor/database-of-statistics/blob/main/scripts/quieries.sql)
+[создание представлений](https://github.com/gl-egor/database-of-statistics/blob/main/scripts/views.sql)
+[создание индексов](https://github.com/gl-egor/database-of-statistics/blob/main/scripts/indexes.sql)
+[триггеры и функции](https://github.com/gl-egor/database-of-statistics/blob/main/scripts/triggers and functions.sql)
