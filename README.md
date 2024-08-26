@@ -9,7 +9,7 @@
 **Концептуальная модель**\
 ![Концептуальная модель](models/concept_model.png)\
 **Логическая модель**\
-![логическая модель](models/Logic_model.pdf)\
+![логическая модель](models/logic_model.pdf)\
 [Физическая модель](https://github.com/gl-egor/database-of-statistics/blob/main/models/physical_model.pdf)
 # Создание и заполнение БД
 Выбранная СУБД - PostgreSQL\
